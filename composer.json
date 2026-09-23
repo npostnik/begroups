@@ -1,0 +1,27 @@
+{
+    "name": "npostnik/begroups",
+    "type": "typo3-cms-extension",
+    "description": "Structured backend user groups",
+    "license": "GPL-3.0",
+    "version": "v13.0.0",
+    "authors": [
+        {
+            "name": "Natalia Postnikova",
+            "role": "Developer",
+            "email": "natalia@postnikova.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Npostnik\\Begroups\\": "Classes/"
+        }
+    },
+    "require": {
+        "typo3/cms-core": "^13.4"
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "begroups"
+        }
+    }
+}

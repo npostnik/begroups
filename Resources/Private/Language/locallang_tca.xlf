@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages">
+		<header/>
+		<body>
+			<trans-unit id="be_groups.type.label">
+				<source>Type</source>
+			</trans-unit>
+			<trans-unit id="be_groups.type.item.empty">
+				<source>please choose</source>
+			</trans-unit>
+			<trans-unit id="be_groups.type.item.group">
+				<source>Group</source>
+			</trans-unit>
+			<trans-unit id="be_groups.type.item.role">
+				<source>Role</source>
+			</trans-unit>
+			<trans-unit id="be_groups.type.item.module">
+				<source>Module</source>
+			</trans-unit>
+			<trans-unit id="be_groups.type.item.right">
+				<source>Right</source>
+			</trans-unit>
+			<trans-unit id="be_groups.type.item.treemount">
+				<source>Pagetree</source>
+			</trans-unit>
+			<trans-unit id="be_groups.type.item.filemount">
+				<source>Filemount</source>
+			</trans-unit>
+			<trans-unit id="be_groups.type.item.language">
+				<source>Language</source>
+			</trans-unit>
+			<trans-unit id="be_groups.type.item.category">
+				<source>Category</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
