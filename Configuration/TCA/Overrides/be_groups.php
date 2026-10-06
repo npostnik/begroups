@@ -30,6 +30,7 @@ $GLOBALS['TCA']['be_groups']['types']['0']['showitem'] =
 
 $GLOBALS['TCA']['be_groups']['types']['group']['showitem'] =
     '--palette--;;about,
+        mfa_providers,
         subgroup,
      --palette--;;options';
 
@@ -45,7 +46,6 @@ $GLOBALS['TCA']['be_groups']['types']['module']['showitem'] =
 
 $GLOBALS['TCA']['be_groups']['types']['right']['showitem'] =
     '--palette--;;about,
-        mfa_providers,
         tables_select,
         tables_modify,
         pagetypes_select,
